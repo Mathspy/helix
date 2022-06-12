@@ -18,6 +18,7 @@
 "ui.text.focus" = { fg = "foam", modifiers = ["bold"]}
 "ui.text.info" = {fg = "pine", modifiers = ["bold"]}
 "ui.virtual.whitespace" = "highlight"
+"ui.virtual.ruler" = { bg = "overlay" }
 "operator" = "rose"
 "variable" = "text"
 "constant.numeric" = "iris"
